@@ -1,17 +1,29 @@
 Query SQL:
 
 SELECT
-CASE
-WHEN jobrole IN ('Sales Executive',
-'Research Scientist',
-'Laboratory Technician',
-'Manufacturing Director',
-'Healthcare Representative')
-THEN jobrole
-ELSE 'Others'
-END AS cargos,
-COUNT(\*) AS total_de_empregados
-FROM TB**TAEZZB**EMPLOYEE
+
+    CASE
+
+    WHEN jobrole IN ('Sales Executive',
+
+    'Research Scientist',
+
+    'Laboratory Technician',
+
+    'Manufacturing Director',
+
+    'Healthcare Representative')
+
+    THEN jobrole
+
+    ELSE 'Others'
+
+    END AS cargos,
+
+    COUNT(\*) AS total_de_empregados
+
+FROM TB\_\_TAEZZBEMPLOYEE
+
 GROUP BY cargos;
 
 ![1692549647104](image/RESPOSTA/1692549647104.png)
