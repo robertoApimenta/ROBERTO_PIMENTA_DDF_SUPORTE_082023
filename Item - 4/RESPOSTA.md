@@ -22,7 +22,7 @@ SELECT
 
     COUNT(\*) AS total_de_empregados
 
-FROM TB\_\_TAEZZBEMPLOYEE
+FROM TB\_\_TAEZZB\_\_EMPLOYEE
 
 GROUP BY cargos;
 
@@ -33,7 +33,7 @@ Link: https://metabase-treinamentos.dadosfera.ai/question/228-cargos
 Query SQL:
 
 SELECT department, COUNT(\*) AS total_de_empregados
-FROM TB**TAEZZB**EMPLOYEE
+FROM TB\_\_TAEZZB\*++EMPLOYEE
 WHERE department IN ('Human Resources', 'Research & Development', 'Sales')
 GROUP BY department;
 
