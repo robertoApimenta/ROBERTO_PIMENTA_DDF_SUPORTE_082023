@@ -31,3 +31,9 @@ Após a resolução do problema, o representante humano agradece ao usuário e i
 ![1692468901816](image/RESPOSTA/1692468901816.png)
 
 b) Exemplifique, com um print de um prompt e uma resposta, como que uma IA poderia ajudar nesse atendimento. Sugerimos o uso de ChatGPT ou Bard
+
+![1692553017591](image/RESPOSTA/1692553017591.png)
+
+![1692553069555](image/RESPOSTA/1692553069555.png)
+
+![1692553080237](image/RESPOSTA/1692553080237.png)
