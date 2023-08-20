@@ -1,5 +1,6 @@
 Query SQL:
 
+```
 SELECT
 
     CASE
@@ -20,11 +21,12 @@ SELECT
 
     END AS cargos,
 
-    COUNT(\*) AS total_de_empregados
+    COUNT(*) AS total_de_empregados
 
-FROM TB\_\_TAEZZB\_\_EMPLOYEE
+FROM TB__TAEZZB__EMPLOYEE
 
 GROUP BY cargos;
+```
 
 ![1692549647104](image/RESPOSTA/1692549647104.png)
 
@@ -32,10 +34,12 @@ Link: https://metabase-treinamentos.dadosfera.ai/question/228-cargos
 
 Query SQL:
 
-SELECT department, COUNT(\*) AS total_de_empregados
-FROM TB\_\_TAEZZB\*++EMPLOYEE
+```
+SELECT department, COUNT(*) AS total_de_empregados
+FROM TB__TAEZZB__EMPLOYEE
 WHERE department IN ('Human Resources', 'Research & Development', 'Sales')
 GROUP BY department;
+```
 
 ![1692549781593](image/RESPOSTA/1692549781593.png)
 
