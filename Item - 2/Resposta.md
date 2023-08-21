@@ -1,3 +1,5 @@
+# [&lt;- Voltar](../SUMARIO.md)
+
 # Item 2 - Sobre Processos Internos
 
 #### \*\*Imagine que a Dadosfera está passando por um upgrade e incorporando uma nova
@@ -66,3 +68,5 @@ Preparar nossos clientes para a mudança é essencial para garantir que eles com
 7. Lançamento Gradual:
 
    - Fazer um lançamento gradual da nova plataforma para grupos de clientes selecionados, permitindo que eles se adaptem antes de disponibilizá-la para todos.
+
+# [&lt;- Voltar](../SUMARIO.md)

@@ -1,3 +1,5 @@
+# [&lt;- Voltar](../SUMARIO.md)
+
 # Item 1 - Sobre Troubleshooting
 
 #### Imagine que você é um analista de suporte e recebe um chamado do cliente reportando um problema na importação dos dados da Dadosfera. Você deve responder como se estivesse interagindo com o cliente no atendimento do chamado. O erro ocorreu nesta pipeline de coleta na Dadosfera. Sugira a alteração a ser feita no Dataset e escreva sobre outros cuidados que nosso usuário deve ter quando carregar dados do Google Sheets para a plataforma. Utilize a documentação da Dadosfera para entender como baixar os logs.
@@ -34,3 +36,5 @@ Além disse verifique os tipos de dados que compõem sua planilha, os dados supo
 | Geoespaciais      | geography                                                                                                                    |
 
 Outros tipos de dados irão quebrar durante a tentativa de importação.
+
+# [&lt;- Voltar](../SUMARIO.md)

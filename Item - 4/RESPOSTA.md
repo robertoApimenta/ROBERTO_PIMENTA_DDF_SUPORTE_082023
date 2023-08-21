@@ -1,3 +1,5 @@
+# [&lt;- Voltar](../SUMARIO.md)
+
 Query SQL:
 
 ```
@@ -44,3 +46,5 @@ GROUP BY department;
 ![1692549781593](image/RESPOSTA/1692549781593.png)
 
 Link: https://metabase-treinamentos.dadosfera.ai/question/229-departamentos
+
+# [&lt;- Voltar](../SUMARIO.md)
