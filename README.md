@@ -4,7 +4,7 @@ Cargo: Analista de Suporte JR
 
 ## Sumário Executivo
 
-[Item 1](./Item - 1/Resposta.md)
+[Item](./Item 1/Resposta.md)
 
 [Item 2](./Item - 2/Resposta.md)
 
